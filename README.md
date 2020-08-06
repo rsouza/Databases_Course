@@ -12,42 +12,42 @@
 
 Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationships. Relational Databases. Keys, Integrity. Relational Algebra. Formal Query Languages. SQL. Programmatic Databases Access. NoSQL Databases. RDF Triplestores. API Access
 
-#### Programa de Aulas:
+#### Detailed Program:
 
 |Day|Topic|Activities|
 |---|---|---|
-|04/08|Introduction, Syllabus, Evaluation, Development Environment|User creation|
-|06/08|Basic Concepts, Terminology and Architecture of Databases. Relational and non-Relational Databases|
-|11/08|Basic Concepts, Terminology and Architecture of Databases. Relational and non-Relational Databases|
-|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|
-|18/08|Modelagem de Dados: Relações, esquemas, restrições|Exercícios de modelagem de dados|
-|20/08|Modelagem de Dados: Formas normais|Exercícios de modelagem de dados|
-|25/08|Modelagem de Dados: Modelos conceitual, lógico e físico|Exercícios de modelagem de dados|
-|27/08|Modelagem de Dados: Modelos conceitual, lógico e físico + exemplos|Exercícios de modelagem de dados|
-|01/09|Modelagem de Dados: Modelos conceitual, lógico e físico + exemplos|Exercícios de modelagem de dados|
-|03/09|Linguagem SQL: Implementações|
-|08/09|Linguagem SQL: Álgebra relacional|
-|10/09|Linguagem SQL|Exercícios de SQL|
-|15/09|Linguagem SQL|Exercícios de SQL|
-|17/09|Linguagem SQL|Exercícios de SQL|
-|19-26/09|Semana de A1|
-|29/09|Arquitetura de Bancos de Dados Relacionais|
-|01/10|Arquitetura de Bancos de Dados Relacionais|
-|06/10|Introdução ao RDBMS MySQL|
-|08/10|Introdução ao RDBMS MySQL|
-|13/10|Introdução ao RDBMS MySQL|
-|20/10|Ferramentas de Modelagem de Dados|
+|04/08|Introduction, Syllabus, Evaluation, Integrated Development Environment|Users creation|
+|06/08|Basic Concepts, Representation. Abstraction. Structured and Unstructured Data|
+|11/08|Types and Architecture of Databases. Relational and non-Relational Databases|
+|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|Data Modeling Exercises|
+|18/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|Data Modeling Exercises|
+|20/08|Data Modeling: [Table Normalization](https://www.guru99.com/database-normalization.html)|Data Modeling Exercises|
+|25/08|[Data Modeling: Conceptual, Logical, Physical](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)|Data Modeling Exercises|
+|27/08|Data Modeling: Conceptual, Logical, Physical|Data Modeling Exercises|
+|01/09|Data Modeling: Conceptual, Logical, Physical|Data Modeling Exercises|
+|03/09|SQL language: Standards, implementations, Relational Algebra|
+|08/09|SQL language|SQL practice|
+|10/09|SQL language|SQL practice|
+|15/09|SQL language|SQL practice|
+|17/09|SQL language|SQL practice|
+|19-26/09|Evaluation|
+|29/09|Architecture of Relational database Management Systems (RDBMS)|
+|01/10|Architecture of Relational database Management Systems (RDBMS)|
+|06/10|RDBMS MySQL|
+|08/10|RDBMS MySQL|
+|13/10|RDBMS MySQL|
+|20/10|Data Modeling Tools|
 |22/10|SQLite|
 |27/10|SQLite|
-|29/10|Acesso programático à bancos de dados|Desenvolvimento de Código em Python|
-|03/11|Acesso programático à bancos de dados|Desenvolvimento de Código em Python|
-|05/11|Acesso programático à bancos de dados|Desenvolvimento de Código em Python|
-|10/11|Acesso programático à bancos de dados|Desenvolvimento de Código em Python|
-|12/11|Acesso programático à bancos de dados|Desenvolvimento de Código em Python|
-|17/11|Bancos de Dados NoSQL|
-|19/11|Bancos de Dados NoSQL|Prática com MongoDB|
-|24/11|Bancos de Dados NoSQL|
-|26/11|Bancos de Dados Analíticos / DW|
+|29/10|Database programmatic access|Python programming|
+|03/11|Database programmatic access|Python programming|
+|05/11|Database programmatic access|Python programming|
+|10/11|Database programmatic access|Python programming|
+|12/11|Database programmatic access|Python programming|
+|17/11|NoSQL Databases|
+|19/11|NoSQL Databases|MongoDB practice|
+|24/11|NoSQL Databases|MongoDB practice|
+|26/11|NoSQL Databases|Elastic Search|
 |27/11-03/12|Semana de A2|
 |---|---|---|
 
