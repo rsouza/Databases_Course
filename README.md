@@ -2,9 +2,9 @@
 
 
 - [Vertabelo](https://www.vertabelo.com/) (Modeling Environment)
-- [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)&nbsp;(local instalation)
-- [MySQL](https://dev.mysql.com/downloads/installer/) (local instalation)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
+- [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
 
 ****
 
@@ -14,18 +14,18 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 
 #### Programa de Aulas:
 
-| | | |
+|Day|Topic|Activities|
 |---|---|---|
 |04/08|Introduction, Syllabus, Evaluation, Development Environment|User creation|
-|06/08|Basic Concepts, Terminology and Architecture of Databases|
-|11/08|Relational and non-Relational Databases|
-|13/08|Modelagem de Dados: Relações, esquemas, restrições|
+|06/08|Basic Concepts, Terminology and Architecture of Databases. Relational and non-Relational Databases|
+|11/08|Basic Concepts, Terminology and Architecture of Databases. Relational and non-Relational Databases|
+|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|
 |18/08|Modelagem de Dados: Relações, esquemas, restrições|Exercícios de modelagem de dados|
 |20/08|Modelagem de Dados: Formas normais|Exercícios de modelagem de dados|
 |25/08|Modelagem de Dados: Modelos conceitual, lógico e físico|Exercícios de modelagem de dados|
 |27/08|Modelagem de Dados: Modelos conceitual, lógico e físico + exemplos|Exercícios de modelagem de dados|
 |01/09|Modelagem de Dados: Modelos conceitual, lógico e físico + exemplos|Exercícios de modelagem de dados|
-|03/09|Linguagem SQL: implementações|
+|03/09|Linguagem SQL: Implementações|
 |08/09|Linguagem SQL: Álgebra relacional|
 |10/09|Linguagem SQL|Exercícios de SQL|
 |15/09|Linguagem SQL|Exercícios de SQL|
@@ -51,6 +51,3 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |27/11-03/12|Semana de A2|
 |---|---|---|
 
-
-Slides:
-[1a Semana](https://drive.google.com/file/d/1SpwOu1xT19FObPFcxaY_XPYw4gbYU9Lk/view?usp=sharing)  
