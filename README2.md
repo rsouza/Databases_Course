@@ -14,8 +14,8 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 
 #### Programa de Aulas:
 
-|04/08 | Introduction, Syllabus, Evaluation, Development Environment | User creation|
 |---|---|---|
+|04/08 | Introduction, Syllabus, Evaluation, Development Environment | User creation|
 |06/08|Basic Concepts, Terminology and Architecture of Databases||
 |11/08|Relational and non-Relational Databases||
 |13/08|Modelagem de Dados: Relações, esquemas, restrições||
@@ -48,6 +48,8 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |24/11|Bancos de Dados NoSQL|
 |26/11|Bancos de Dados Analíticos / DW|
 |27/11-03/12|Semana de A2|
-Slides:
+|---|---|---|
 
-[1a Semana](https://drive.google.com/file/d/1SpwOu1xT19FObPFcxaY_XPYw4gbYU9Lk/view?usp=sharing)
+
+Slides:
+[1a Semana](https://drive.google.com/file/d/1SpwOu1xT19FObPFcxaY_XPYw4gbYU9Lk/view?usp=sharing)  
