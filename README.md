@@ -6,6 +6,7 @@
   - [Lucid Charts](https://www.lucidchart.com/pages/)
   - [Diagrams](https://app.diagrams.net/)
   - [DB Diagram](https://dbdiagram.io/home)
+  - [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
   
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
