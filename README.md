@@ -1,10 +1,15 @@
 **Introduction to Databases**
 
-
-- [Vertabelo](https://www.vertabelo.com/) (Modeling Environment)
-- [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
-- [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
++ Modeling Environments
+  - [Vertabelo](https://www.vertabelo.com/)  
+  - [SQLDBM](https://sqldbm.com/Home/)  
+  - [Lucid Charts](https://www.lucidchart.com/pages/)
+  - [Diagrams](https://app.diagrams.net/)
+  - [DB Diagram](https://dbdiagram.io/home)
+  
++ [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
++ [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
++ [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
 
 ****
 
