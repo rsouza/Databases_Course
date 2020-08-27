@@ -7,6 +7,7 @@
   - [Diagrams](https://app.diagrams.net/)
   - [DB Diagram](https://dbdiagram.io/home)
   - [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
+  - [Visual Paradigm](https://www.visual-paradigm.com/)
   
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
