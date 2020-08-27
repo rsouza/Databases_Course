@@ -15,20 +15,20 @@ Todos os passos para o desenvolvimento do projeto devem ser documentados, e esta
 
 1) Realizar a Modelagem do Domínio
 Neste estágio, as seguintes tarefas serao desenvolvidas: 
-+ Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:
-    + https://www.kaggle.com/datasets?search=food  
-    + https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions  
-    + https://mmspg.epfl.ch/food-image-datasets  
-    + https://www.vision.ee.ethz.ch/datasets_extra/food-101/  
-    + http://foodcam.mobi/dataset256.html  
-    + https://pfid.rit.albany.edu/
+    + Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:
+        + https://www.kaggle.com/datasets?search=food  
+        + https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions  
+        + https://mmspg.epfl.ch/food-image-datasets  
+        + https://www.vision.ee.ethz.ch/datasets_extra/food-101/  
+        + http://foodcam.mobi/dataset256.html  
+        + https://pfid.rit.albany.edu/
     
-+ Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas
+    + Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas
 
 2) mplementar o banco de dados na tecnologia MySQL
 Neste estágio, as seguintes tarefas serao desenvolvidas: 
 
-+ Gerar um dump em formato SQL para entrega e avaliacao
+    + Gerar um dump em formato SQL para entrega e avaliacao
 
 
 3) 
