@@ -36,7 +36,7 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |10/09|SQL language|SQL practice|
 |15/09|SQL language|SQL practice|
 |17/09|SQL language|SQL practice|
-|19-26/09|Evaluation|
+|19-26/09|Evaluation (sending until 24/09)|
 |29/09|Database programmatic access to Databases|Python programming|
 |01/10|Database programmatic access to Databases|Python programming|
 |06/10|Database programmatic access to Databases|Python programming|
@@ -54,6 +54,6 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |19/11|NoSQL Databases|MongoDB practice|
 |24/11|NoSQL Databases|MongoDB practice|
 |26/11|NoSQL Databases|Elastic Search|
-|27/11-03/12|Semana de A2|
+|27/11-03/12|Evaluation (sending until 03/12)|
 |---|---|---|
 
