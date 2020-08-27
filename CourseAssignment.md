@@ -25,7 +25,7 @@ Neste estágio, as seguintes tarefas serao desenvolvidas:
     
     + Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas
 
-2) mplementar o banco de dados na tecnologia MySQL
+2) Implementar o banco de dados na tecnologia MySQL
 Neste estágio, as seguintes tarefas serao desenvolvidas: 
 
     + Gerar um dump em formato SQL para entrega e avaliacao
