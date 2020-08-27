@@ -25,31 +25,31 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |04/08|Introduction, Syllabus, Evaluation, Integrated Development Environment|Users creation|
 |06/08|Basic Concepts, Representation. Abstraction. Structured and Unstructured Data|
 |11/08|Types and Architecture of Databases. Relational and non-Relational Databases|
-|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|Data Modeling Exercises|
-|18/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions|Data Modeling Exercises|
-|20/08|Data Modeling: [Table Normalization](https://www.guru99.com/database-normalization.html)|Data Modeling Exercises|
-|25/08|[Data Modeling: Conceptual, Logical, Physical](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)|Data Modeling Exercises|
-|27/08|Data Modeling: Conceptual, Logical, Physical|Data Modeling Exercises|
-|01/09|Data Modeling: Conceptual, Logical, Physical|Data Modeling Exercises|
-|03/09|SQL language: Standards, implementations, Relational Algebra|
+|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions. Data Modeling Tools|Data Modeling Exercises|
+|18/08|Data Modeling: [Table Normalization](https://www.guru99.com/database-normalization.html)|Data Modeling Exercises|
+|20/08|[Data Modeling: Conceptual, Logical, Physical](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)|Data Modeling Exercises|
+|25/08|SQL language: Standards, implementations, Relational Algebra|
+|27/08|Introduction to RDBMS MySQL|Hands On MySQL CLI|
+|01/09|SQL language|SQL practice|
+|03/09|SQL language|SQL practice|
 |08/09|SQL language|SQL practice|
 |10/09|SQL language|SQL practice|
 |15/09|SQL language|SQL practice|
 |17/09|SQL language|SQL practice|
 |19-26/09|Evaluation|
-|29/09|Architecture of Relational database Management Systems (RDBMS)|
-|01/10|Architecture of Relational database Management Systems (RDBMS)|
-|06/10|RDBMS MySQL|
-|08/10|RDBMS MySQL|
-|13/10|RDBMS MySQL|
-|20/10|Data Modeling Tools|
-|22/10|SQLite|
-|27/10|SQLite|
-|29/10|Database programmatic access|Python programming|
-|03/11|Database programmatic access|Python programming|
-|05/11|Database programmatic access|Python programming|
-|10/11|Database programmatic access|Python programming|
-|12/11|Database programmatic access|Python programming|
+|29/09|Database programmatic access to Databases|Python programming|
+|01/10|Database programmatic access to Databases|Python programming|
+|06/10|Database programmatic access to Databases|Python programming|
+|08/10|Database programmatic access to Databases|Python programming - SQLite|
+|13/10|Database programmatic access to Databases|Python programming - SQLite|
+|20/10|Introduction to RDBMS Postgres|Hands On Postgres CLI|
+|22/10|Database programmatic access to Databases|Python programming - Postgres|
+|27/10|Database programmatic access to Databases|Python programming - Interface with Pandas|
+|29/10|Database programmatic access to Databases|Python programming - Interface with Pandas|
+|03/11|Database programmatic access to Databases|Python programming - Interface with Pandas|
+|05/11|Database programmatic access to Databases|Python programming - Interface with Pandas|
+|10/11|Cloud Databases - DoltHub|
+|12/11|Cloud Databases - DoltHub|
 |17/11|NoSQL Databases|
 |19/11|NoSQL Databases|MongoDB practice|
 |24/11|NoSQL Databases|MongoDB practice|
