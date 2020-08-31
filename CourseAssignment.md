@@ -16,7 +16,8 @@ O tópico a ser escolhido deve estar em uma das seguintes famílias:
 
 Todos os passos para o desenvolvimento do projeto devem ser documentados, e estao listados a seguir:
 
-1) Realizar a Modelagem do Domínio
+1) Primeira entrega (relativa à A1) 
+
 Neste estágio, as seguintes tarefas serao desenvolvidas: 
     + Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:
         + https://www.kaggle.com/datasets?search=food  
@@ -25,16 +26,20 @@ Neste estágio, as seguintes tarefas serao desenvolvidas:
         + https://www.vision.ee.ethz.ch/datasets_extra/food-101/  
         + http://foodcam.mobi/dataset256.html  
         + https://pfid.rit.albany.edu/
-    
+    + Realizar a Modelagem do Domínio    
     + Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas
-
-2) Implementar o banco de dados na tecnologia MySQL
-Neste estágio, as seguintes tarefas serao desenvolvidas: 
-
+    + Implementar o banco de dados na tecnologia MySQL
     + Gerar um dump em formato SQL para entrega e avaliacao
 
+2) Segunda entrega (relativa à A2) 
 
-3) 
+Neste estágio, as seguintes tarefas serao desenvolvidas: 
+    + Escolha de aspectos do BD MySQL que serao trabalhados em uma estrutura de Grafo
+    + Conversao de dados do DB MySQL para uma estrutura de Grafos (usando NetworkX, ou outra biblioteca)
+    + Criacao de queries especificas para dados neste grafo (em Python, SPARQL)
+    + Criar uma interface para consulta e visualizacao do Grafo [(exemplo para inspirar)](https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7)
 
+
+Nao demorem a comecar e bom trabalho!!
 
 
