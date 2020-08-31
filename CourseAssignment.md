@@ -18,8 +18,8 @@ Todos os passos para o desenvolvimento do projeto devem ser documentados, e esta
 
 1) Primeira entrega (relativa à A1) 
 
-Neste estágio, as seguintes tarefas serao desenvolvidas: 
-    + Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:  
+Neste estágio, as seguintes tarefas serao desenvolvidas:  
+    + Mapeamento das fontes de informacao (alguns exemplos de fontes sao apresentados em seguida):  
         + https://www.kaggle.com/datasets?search=food  
         + https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions  
         + https://mmspg.epfl.ch/food-image-datasets  
