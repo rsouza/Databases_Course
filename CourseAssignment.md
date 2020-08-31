@@ -19,27 +19,27 @@ Todos os passos para o desenvolvimento do projeto devem ser documentados, e esta
 1) Primeira entrega (relativa à A1) 
 
 Neste estágio, as seguintes tarefas serao desenvolvidas: 
-    + Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:
+    + Mapeamento das fontes de informacao. Algumas exemplos de fontes sao apresentados em seguida:  
         + https://www.kaggle.com/datasets?search=food  
         + https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions  
         + https://mmspg.epfl.ch/food-image-datasets  
         + https://www.vision.ee.ethz.ch/datasets_extra/food-101/  
         + http://foodcam.mobi/dataset256.html  
-        + https://pfid.rit.albany.edu/
+        + https://pfid.rit.albany.edu/  
     + Realizar a Modelagem do Domínio    
-    + Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas
-    + Implementar o banco de dados na tecnologia MySQL
-    + Gerar um dump em formato SQL para entrega e avaliacao
+    + Criar os modelos conceitual e lógico em um ambiente como o Vertabelo, ou as outras alternativas  
+    + Implementar o banco de dados na tecnologia MySQL  
+    + Gerar um dump em formato SQL para entrega e avaliacao  
 
-2) Segunda entrega (relativa à A2) 
+2) Segunda entrega (relativa à A2)  
 
-Neste estágio, as seguintes tarefas serao desenvolvidas: 
-    + Escolha de aspectos do BD MySQL que serao trabalhados em uma estrutura de Grafo
-    + Conversao de dados do DB MySQL para uma estrutura de Grafos (usando NetworkX, ou outra biblioteca)
-    + Criacao de queries especificas para dados neste grafo (em Python, SPARQL)
-    + Criar uma interface para consulta e visualizacao do Grafo [(exemplo para inspirar)](https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7)
+Neste estágio, as seguintes tarefas serao desenvolvidas:   
+    + Escolha de aspectos do BD MySQL que serao trabalhados em uma estrutura de Grafo  
+    + Conversao de dados do DB MySQL para uma estrutura de Grafos (usando NetworkX, ou outra biblioteca)  
+    + Criacao de queries especificas para dados neste grafo (em Python, SPARQL)  
+    + Criar uma interface para consulta e visualizacao do Grafo [(exemplo para inspirar)](https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7)  
 
 
-Nao demorem a comecar e bom trabalho!!
+Nao demorem a comecar e bom trabalho!!  
 
 
