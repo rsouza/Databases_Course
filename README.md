@@ -1,13 +1,13 @@
 **Introduction to Databases**
 
 + Modeling Environments
-  - [Vertabelo](https://www.vertabelo.com/)  
-  - [SQLDBM](https://sqldbm.com/Home/)  
-  - [Lucid Charts](https://www.lucidchart.com/pages/)
-  - [Diagrams](https://app.diagrams.net/)
-  - [DB Diagram](https://dbdiagram.io/home)
-  - [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
-  - [Visual Paradigm](https://www.visual-paradigm.com/)
+  + [Vertabelo](https://www.vertabelo.com/)  
+  + [SQLDBM](https://sqldbm.com/Home/)  
+  + [Lucid Charts](https://www.lucidchart.com/pages/)
+  + [Diagrams](https://app.diagrams.net/)
+  + [DB Diagram](https://dbdiagram.io/home)
+  + [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
+  + [Visual Paradigm](https://www.visual-paradigm.com/)
   
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
@@ -38,17 +38,17 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |15/09|SQL language|SQL practice|
 |17/09|SQL language|SQL practice|
 |19-26/09|Evaluation (sending until 24/09)|
-|29/09|Database programmatic access to Databases|Python programming|
-|01/10|Database programmatic access to Databases|Python programming|
-|06/10|Database programmatic access to Databases|Python programming|
-|08/10|Database programmatic access to Databases|Python programming - SQLite|
-|13/10|Database programmatic access to Databases|Python programming - SQLite|
+|29/09|Programmatic access to Databases|Python programming|
+|01/10|Programmatic access to Databases|Python programming|
+|06/10|Programmatic access to Databases|Python programming|
+|08/10|Programmatic access to Databases|Python programming - SQLite|
+|13/10|Programmatic access to Databases|Python programming - SQLite|
 |20/10|Introduction to RDBMS Postgres|Hands On Postgres CLI|
-|22/10|Database programmatic access to Databases|Python programming - Postgres|
-|27/10|Database programmatic access to Databases|Python programming - Interface with Pandas|
-|29/10|Database programmatic access to Databases|Python programming - Interface with Pandas|
-|03/11|Database programmatic access to Databases|Python programming - Interface with Pandas|
-|05/11|Database programmatic access to Databases|Python programming - Interface with Pandas|
+|22/10|Programmatic access to Databases|Python programming - Postgres|
+|27/10|Programmatic access to Databases|Python programming - Interface with Pandas|
+|29/10|Programmatic access to Databases|Python programming - Interface with Pandas|
+|03/11|Programmatic access to Databases|Python programming - Interface with Pandas|
+|05/11|Programmatic access to Databases|Python programming - Interface with Pandas|
 |10/11|Cloud Databases - DoltHub|
 |12/11|Cloud Databases - DoltHub|
 |17/11|NoSQL Databases|
