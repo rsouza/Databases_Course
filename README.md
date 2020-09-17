@@ -1,6 +1,6 @@
 **Introduction to Databases**
 
-+ Modeling Environments
++ Modeling Environments:
   + [Vertabelo](https://www.vertabelo.com/)  
   + [SQLDBM](https://sqldbm.com/Home/)  
   + [Lucid Charts](https://www.lucidchart.com/pages/)
@@ -9,14 +9,23 @@
   + [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
   + [Visual Paradigm](https://www.visual-paradigm.com/)
   
-+ DBMSs
-  + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
-    + [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
-  + [MariaDB](https://mariadb.org/)
-  + [PostegreSQL](https://www.postgresql.org/)
-    + [PostGIS](https://postgis.net/)
-  + [SQLite](https://www.sqlite.org/index.html)
-    + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)
++ DBMSs:
+  + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)  
+    + [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)  
+  + [MariaDB](https://mariadb.org/)  
+  + [PostegreSQL](https://www.postgresql.org/)  
+    + [PostGIS](https://postgis.net/)  
+  + [SQLite](https://www.sqlite.org/index.html)  
+    + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)  
+
++ Cloud and DS Databases:  
+  + [DoltHub](https://www.dolthub.com/)  
+  + [MLDB](https://mldb.ai/)   
+ 
++ NoSQL Databases  
+  + [MongoDB](https://www.mongodb.com/)  
+  + [ElasticSearch](https://www.elastic.co/elasticsearch/)  
+
 
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 
@@ -41,7 +50,7 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 |01/09|SQL language|SQL practice|
 |03/09|SQL language|SQL practice|
 |08/09|SQL language|SQL practice|
-|10/09|SQL language|SQL practice|
+|10/09|SQL language|[Regular Expressions](https://regex101.com/)|
 |15/09|SQL language|SQL practice|
 |17/09|SQL language|SQL practice|
 |19-26/09|Evaluation (sending until 24/09)|
