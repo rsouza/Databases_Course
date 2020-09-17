@@ -9,9 +9,16 @@
   + [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
   + [Visual Paradigm](https://www.visual-paradigm.com/)
   
++ DBMSs
+  + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
+    + [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
+  + [MariaDB](https://mariadb.org/)
+  + [PostegreSQL](https://www.postgresql.org/)
+    + [PostGIS](https://postgis.net/)
+  + [SQLite](https://www.sqlite.org/index.html)
+    + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)
+
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
-+ [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)
-+ [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)
 
 ****
 
