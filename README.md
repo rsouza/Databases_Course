@@ -1,5 +1,8 @@
 **Introduction to Databases**
 
++ References:
+  + [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+
 + Modeling Environments:
   + [Vertabelo](https://www.vertabelo.com/)  
   + [SQLDBM](https://sqldbm.com/Home/)  
@@ -9,7 +12,7 @@
   + [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
   + [Visual Paradigm](https://www.visual-paradigm.com/)
   
-+ DBMSs:
++ RDBMSs:
   + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)  
     + [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)  
   + [MariaDB](https://mariadb.org/)  
