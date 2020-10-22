@@ -21,8 +21,10 @@
     + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)  
 
 + Managing Environments:  
-    +[MySQL Workbench](https://www.mysql.com/products/workbench/)   
-    +[DBeaver](https://dbeaver.io/download/)   
+  + [MySQL Workbench](https://www.mysql.com/products/workbench/)   
+  + [PHPMyAdmin](https://www.phpmyadmin.net/)
+  + [PGAdmin](https://www.pgadmin.org/)
+  + [DBeaver](https://dbeaver.io/download/)   
 
 + NoSQL Databases  
   + [MongoDB](https://www.mongodb.com/)  
