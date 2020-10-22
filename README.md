@@ -21,15 +21,18 @@
   + [SQLite](https://www.sqlite.org/index.html)  
     + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)  
 
-+ Cloud and DS Databases:  
-  + [DoltHub](https://www.dolthub.com/)  
-  + [MLDB](https://mldb.ai/)   
- 
++ Managing Environments:
+    +[MySQL Workbench](https://www.mysql.com/products/workbench/)  
+    +[DBeaver](https://dbeaver.io/download/)  
+
 + NoSQL Databases  
   + [MongoDB](https://www.mongodb.com/)  
   + [ElasticSearch](https://www.elastic.co/elasticsearch/)  
 
-
++ Cloud and DS Databases:  
+  + [DoltHub](https://www.dolthub.com/)  
+  + [MLDB](https://mldb.ai/)   
+ 
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 
 ****
