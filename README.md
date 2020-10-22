@@ -14,16 +14,15 @@
   
 + RDBMSs:
   + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)  
-    + [MySQL Workbench](https://www.mysql.com/products/workbench/) (Local installation)  
   + [MariaDB](https://mariadb.org/)  
   + [PostegreSQL](https://www.postgresql.org/)  
     + [PostGIS](https://postgis.net/)  
   + [SQLite](https://www.sqlite.org/index.html)  
     + [SpatialLite](https://www.gaia-gis.it/fossil/libspatialite/home)  
 
-+ Managing Environments:
-    +[MySQL Workbench](https://www.mysql.com/products/workbench/)  
-    +[DBeaver](https://dbeaver.io/download/)  
++ Managing Environments:  
+    +[MySQL Workbench](https://www.mysql.com/products/workbench/)   
+    +[DBeaver](https://dbeaver.io/download/)   
 
 + NoSQL Databases  
   + [MongoDB](https://www.mongodb.com/)  
