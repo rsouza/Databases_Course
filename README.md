@@ -36,6 +36,8 @@
  
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 
++ [Fake Data Generation](https://www.generatedata.com/)
+
 ****
 
 **Syllabus**
