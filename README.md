@@ -10,7 +10,8 @@
   + [Diagrams](https://app.diagrams.net/)
   + [DB Diagram](https://dbdiagram.io/home)
   + [Quick DB Diagrams](https://www.quickdatabasediagrams.com/)
-  + [Visual Paradigm](https://www.visual-paradigm.com/)
+  + [Visual Paradigm](https://www.visual-paradigm.com/)  
+  + [ERD Plus](https://erdplus.com/)
   
 + RDBMSs:
   + [MySQL](https://dev.mysql.com/downloads/installer/) (Local installation)  
