@@ -29,11 +29,14 @@
 
 + NoSQL Databases  
   + [MongoDB](https://www.mongodb.com/)  
-  + [ElasticSearch](https://www.elastic.co/elasticsearch/)  
+  + [ElasticSearch](https://www.elastic.co/elasticsearch/)   
+  + [TimeScale](https://www.timescale.com/)  
 
 + Cloud and DS Databases:  
   + [DoltHub](https://www.dolthub.com/)  
   + [MLDB](https://mldb.ai/)   
+  + [DVC](https://dvc.org/)  
+  + [Graviti](https://www.graviti.com/)  
  
 + [Anaconda - Jupyter - Python](https://www.anaconda.com/products/individual)(Python Environment)
 
@@ -49,38 +52,38 @@ Entity-Relationship Models and Diagrams. Entity Types and Attributes. Relationsh
 
 |Day|Topic|Activities|
 |---|---|---|
-|04/08|Introduction, Syllabus, Evaluation, Integrated Development Environment|Users creation|
-|06/08|Basic Concepts, Representation. Abstraction. Structured and Unstructured Data|
-|11/08|Types and Architecture of Databases. Relational and non-Relational Databases|
-|13/08|Data Modeling: Diagrams, Relations, Schemas, Restrictions. Data Modeling Tools|Data Modeling Exercises|
-|18/08|Data Modeling: [Table Normalization](https://www.guru99.com/database-normalization.html)|Data Modeling Exercises|
-|20/08|[Data Modeling: Conceptual, Logical, Physical](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)|Data Modeling Exercises|
-|25/08|SQL language: Standards, implementations, Relational Algebra|
-|27/08|Introduction to RDBMS MySQL|Hands On MySQL CLI|
-|01/09|SQL language|SQL practice|
-|03/09|SQL language|SQL practice|
-|08/09|SQL language|SQL practice|
-|10/09|SQL language|[Regular Expressions](https://regex101.com/)|
-|15/09|SQL language|SQL practice|
-|17/09|SQL language|SQL practice|
-|19-26/09|Evaluation (sending until 24/09)|
-|29/09|Programmatic access to Databases|Python programming|
-|01/10|Programmatic access to Databases|Python programming|
-|06/10|Programmatic access to Databases|Python programming|
-|08/10|Programmatic access to Databases|Python programming - SQLite|
-|13/10|Programmatic access to Databases|Python programming - SQLite|
-|20/10|Introduction to RDBMS Postgres|Hands On Postgres CLI|
-|22/10|Programmatic access to Databases|Python programming - Postgres|
-|27/10|Programmatic access to Databases|Python programming - Interface with Pandas|
-|29/10|Programmatic access to Databases|Python programming - Interface with Pandas|
-|03/11|Programmatic access to Databases|Python programming - Interface with Pandas|
-|05/11|Programmatic access to Databases|Python programming - Interface with Pandas|
-|10/11|Cloud Databases - DoltHub|
-|12/11|Cloud Databases - DoltHub|
-|17/11|NoSQL Databases|
-|19/11|NoSQL Databases|MongoDB practice|
-|24/11|NoSQL Databases|MongoDB practice|
-|26/11|NoSQL Databases|Elastic Search|
-|27/11-03/12|Evaluation (sending until 03/12)|
+|Class 1|Introduction, Syllabus, Evaluation, Integrated Development Environment|Users creation|
+|Class 2|Basic Concepts, Representation. Abstraction. Structured and Unstructured Data|
+|Class 3|Types and Architecture of Databases. Relational and non-Relational Databases|
+|Class 4|Data Modeling: Diagrams, Relations, Schemas, Restrictions. Data Modeling Tools|Data Modeling Exercises|
+|Class 5|Data Modeling: [Table Normalization](https://www.guru99.com/database-normalization.html)|Data Modeling Exercises|
+|Class 6|[Data Modeling: Conceptual, Logical, Physical](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model/)|Data Modeling Exercises|
+|Class 7|SQL language: Standards, implementations, Relational Algebra|
+|Class 8|Introduction to RDBMS MySQL|Hands On MySQL CLI|
+|Class 9|SQL language|SQL practice|
+|Class 10|SQL language|SQL practice|
+|Class 11|SQL language|SQL practice|
+|Class 12|SQL language|[Regular Expressions](https://regex101.com/)|
+|Class 13|SQL language|SQL practice|
+|Class 14|SQL language|SQL practice|
+|---|Evaluation|---|
+|Class 15|Programmatic access to Databases|Python programming|
+|Class 16|Programmatic access to Databases|Python programming|
+|Class 17|Programmatic access to Databases|Python programming|
+|Class 18|Programmatic access to Databases|Python programming - SQLite|
+|Class 19|Programmatic access to Databases|Python programming - SQLite|
+|Class 20|Introduction to RDBMS Postgres|Hands On Postgres CLI|
+|Class 21|Programmatic access to Databases|Python programming - Postgres|
+|Class 22|Programmatic access to Databases|Python programming - Interface with Pandas|
+|Class 23|Programmatic access to Databases|Python programming - Interface with Pandas|
+|Class 24|Programmatic access to Databases|Python programming - Interface with Pandas|
+|Class 25|Programmatic access to Databases|Python programming - Interface with Pandas|
+|Class 26|Cloud Databases - DoltHub|
+|Class 27|Cloud Databases - DoltHub|
+|Class 28|NoSQL Databases|
+|Class 29|NoSQL Databases|MongoDB practice|
+|Class 30|NoSQL Databases|MongoDB practice|
+|Class 31|NoSQL Databases|Elastic Search|
+|---|Evaluation|---|
 |---|---|---|
 
